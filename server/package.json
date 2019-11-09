@@ -1,0 +1,11 @@
+{
+  "name": "wsserver",
+  "version": "1.0.0",
+  "description": "WebSocket Server for 2019 Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jmcquality14",
+  "license": "ISC"
+}
